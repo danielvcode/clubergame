@@ -8,9 +8,6 @@
  <img width="800"  height="450" src="https://github.com/danielvcode/clubergame/blob/9b34636dc0600469ecedbae07047a0781693c02a/simplegif.gif"> 
 </p>
 
-<div></div>
- 
- 
 <h2 align="center">MOBILE</h2>
 
 <p align="center">
